@@ -38,3 +38,15 @@ body {
     height: 400px;
     object-fit: cover;
   }
+
+  /* .hero-image-container {
+    position: relative;
+  }
+  
+  .hero-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+   */
