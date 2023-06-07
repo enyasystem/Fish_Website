@@ -50,3 +50,49 @@ body {
     transform: translate(-50%, -50%);
   }
    */
+   .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-left {
+    float: left;
+    width: 33.33%;
+}
+
+.footer-right {
+    /* text-align: right; */
+}
+
+.footer-links {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.footer-social {
+    background-color: darkred;
+    text-align: left;
+    padding: 10px 0;
+}
+
+.footer-social a {
+    color: #fff;
+    text-decoration: none;
+    /* margin-right: 10px; */
+}
+
+.justify-content-end {
+    display: flex;
+    justify-content: flex-end;
+    /* Align to the end */
+}
+
+.social_icons {
+    margin-right: 120px;
+}
